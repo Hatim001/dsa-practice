@@ -16,7 +16,7 @@ def binary_search_iterative(arr, value):
         elif value > arr[middle]:
             left = middle + 1
 
-    return - 1
+    return -1
 
 
 arr = [23, 34, 45, 57, 69, 98]
