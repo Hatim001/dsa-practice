@@ -1,4 +1,3 @@
-from email import header
 from node import _Node
 
 
