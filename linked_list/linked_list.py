@@ -2,7 +2,7 @@ from node import _Node
 
 
 class LinkedList:
-    """ this is normal linked list """
+    """ this is normal linked list 1234 """
     def __init__(self) -> None:
         self._head = None
         self._tail = None
