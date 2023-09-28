@@ -1,6 +1,7 @@
 from node import _Node
 
 class CircularLinkedList:
+    """ this is a circular linked list """
     def __init__(self) -> None:
         self._head = None
         self._tail = None

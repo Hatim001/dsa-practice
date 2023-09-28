@@ -2,6 +2,7 @@ from node import _Node
 
 
 class LinkedList:
+    """ this is normal linked list """
     def __init__(self) -> None:
         self._head = None
         self._tail = None
