@@ -19,5 +19,3 @@ arr = [3, 5, 8, 9, 6, 2]
 print("Original Array: ", arr)
 insertion_sort(arr)
 print("Sorted Array: ", arr)
-
-print("this is testing of github event on pus!!")

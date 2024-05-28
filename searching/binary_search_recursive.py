@@ -1,7 +1,5 @@
-
-
 def binary_search_recursive(arr, value, left, right):
-    """ searches the element using binary search """
+    """searches the element using binary search"""
 
     if left > right:
         return -1
@@ -16,5 +14,5 @@ def binary_search_recursive(arr, value, left, right):
 
 
 arr = [23, 34, 45, 57, 69, 98]
-found = binary_search_recursive(arr, 69, 0, len(arr)-1)
+found = binary_search_recursive(arr, 69, 0, len(arr) - 1)
 print("Result: ", found)
